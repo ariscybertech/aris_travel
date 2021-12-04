@@ -1,16 +1,16 @@
-# aris_travel_service_app
-
-A new Flutter project.
+# Hi there, I'm Behruz Hurramov
+![MobileScreenshot](screenshots/screenshot.gif)
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+```dart
+$ git clone https://github.com/ariscybertech/aris_instagram.git
+$ flutter packages get
+```
+Run the application and enjoy :tada::relaxed:
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- 🌱 I’m currently learning everything
+     I’m looking to collaborate with other content creators
+- 🥅 2021 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to draw and play guitar / drums
