@@ -1,4 +1,4 @@
-import 'package:aris_travel_service_app/screens/home_page.dart';
+import 'package:aris_travel_service_app/aris/screens/home_page.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 

@@ -1,4 +1,4 @@
-import 'package:aris_travel_service_app/screens/splash_screen.dart';
+import 'package:aris_travel_service_app/aris/screens/splash_screen.dart';
 import 'package:flutter/material.dart';
 
 void main() => runApp(MyApp());
