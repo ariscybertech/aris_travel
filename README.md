@@ -1,4 +1,13 @@
-# Hi there, I'm Behruz Hurramov
+<h1 align="center">Aris Travel</h1>
+
+<br />
+ 
+<p align="center">
+  <img alt="app-store" src="https://github.com/plante-app-team/plante/blob/master/readme_resources/app-store.png" />
+  <img alt="google-play" src="https://github.com/plante-app-team/plante/blob/master/readme_resources/play-store.png" />
+</p>
+
+<br />
 ![MobileScreenshot](screenshots/screenshot.gif)
 
 ## Getting Started
