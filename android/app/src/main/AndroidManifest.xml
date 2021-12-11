@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.aris_travel_service_app">
+    package="com.aristech.aris_travel_service_app">
    <application
-        android:label="aris_travel_service_app"
+        android:label="ArisTravelServiceApp"
         android:icon="@mipmap/launcher_icon">
         <activity
             android:name=".MainActivity"
